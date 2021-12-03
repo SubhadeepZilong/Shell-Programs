@@ -5,5 +5,5 @@ read a
 echo -n "Enter Number 2: "
 read b
 
-sum=$(($a+$b))
+sum = $(( a + b ))
 echo "Sum is $sum"
